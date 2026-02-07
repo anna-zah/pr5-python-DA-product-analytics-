@@ -1,4 +1,4 @@
-# pr5-python-DA-product-analytics-
+# pr5-python-DA-product-analytics
 # CRM Data Analysis for Online Programming School
 
 This project is a Python-based data analysis of CRM data for an online programming school. The goal is to clean, explore, and analyze sales and marketing data to improve business performance and identify growth opportunities.
